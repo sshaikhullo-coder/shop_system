@@ -1,0 +1,30 @@
+2026-04-19 17:08:08,084 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.3.3
+2026-04-19 17:08:08,085 - kivy - INFO - Logger: Record log in C:\Users\shayhullo\.kivy\logs\kivy_26-04-19_9.txt
+2026-04-19 17:08:08,085 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2026-04-19 17:08:08,085 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.6.0
+2026-04-19 17:08:08,085 - kivy - INFO - Kivy: v2.2.1
+2026-04-19 17:08:08,085 - kivy - INFO - Kivy: Installed at "C:\Users\shayhullo\AppData\Local\Programs\Python\Python310\lib\site-packages\kivy\__init__.py"
+2026-04-19 17:08:08,085 - kivy - INFO - Python: v3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2026-04-19 17:08:08,086 - kivy - INFO - Python: Interpreter at "C:\Users\shayhullo\AppData\Local\Programs\Python\Python310\python.exe"
+2026-04-19 17:08:08,086 - kivy - INFO - Logger: Purge log fired. Processing...
+2026-04-19 17:08:08,094 - kivy - INFO - Logger: Purge finished!
+2026-04-19 17:08:08,156 - kivy - INFO - Factory: 190 symbols loaded
+2026-04-19 17:08:08,193 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2026-04-19 17:08:08,252 - kivy - INFO - Text: Provider: sdl2
+2026-04-19 17:08:08,330 - kivy - INFO - Window: Provider: sdl2
+2026-04-19 17:08:08,694 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2026-04-19 17:08:08,697 - kivy - INFO - GL: GLEW initialization succeeded
+2026-04-19 17:08:08,697 - kivy - INFO - GL: Backend used <glew>
+2026-04-19 17:08:08,697 - kivy - INFO - GL: OpenGL version <b'4.6.0 - Build 31.0.101.4032'>
+2026-04-19 17:08:08,697 - kivy - INFO - GL: OpenGL vendor <b'Intel'>
+2026-04-19 17:08:08,698 - kivy - INFO - GL: OpenGL renderer <b'Intel(R) Iris(R) Xe Graphics'>
+2026-04-19 17:08:08,698 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2026-04-19 17:08:08,698 - kivy - INFO - GL: Shading version <b'4.60 - Build 31.0.101.4032'>
+2026-04-19 17:08:08,698 - kivy - INFO - GL: Texture max size <16384>
+2026-04-19 17:08:08,698 - kivy - INFO - GL: Texture max units <32>
+2026-04-19 17:08:08,722 - kivy - INFO - Window: auto add sdl2 input provider
+2026-04-19 17:08:08,724 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2026-04-19 17:08:09,225 - kivy - WARNING - stderr: Traceback (most recent call last):
+2026-04-19 17:08:09,225 - kivy - WARNING - stderr:   File "C:\Users\shayhullo\OneDrive\Desktop\shop_system\main.py", line 26, in <module>
+2026-04-19 17:08:09,225 - kivy - WARNING - stderr:     from gui.main_app import ShopManagementApp
+2026-04-19 17:08:09,225 - kivy - WARNING - stderr: ImportError: cannot import name 'ShopManagementApp' from 'gui.main_app' (C:\Users\shayhullo\OneDrive\Desktop\shop_system\gui\main_app.py)
